@@ -1,2 +1,1 @@
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/khadijahR07/sem/master)
-![workflow](https://github.com)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/khadijahR07/sem/master)![workflow](https://github.com)
